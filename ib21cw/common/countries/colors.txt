@@ -1,0 +1,6 @@
+#reload countrycolors
+
+AQI = {
+	color = rgb { 50  50  50 }
+	color_ui = rgb { 50 50 50 }
+}
